@@ -4,11 +4,11 @@
 
 - Home
 - About Me
-  - Projects
-    - Cool Website
-    - Cool Database
-    - Cool API Server
-    - Project 4
-    - Project 5 
- - Skills/Experience/etc
- - Contact Me/Resume
+- Skills
+- Portfolio
+  - Project 1
+  - Project 2
+  - Project 3
+  - Project 4
+  - Project 5 
+ - Contact Me
